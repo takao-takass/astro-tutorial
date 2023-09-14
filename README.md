@@ -1,3 +1,6 @@
+# Lecture status.
+https://docs.astro.build/ja/tutorial/2-pages/2/
+
 # Hosted
 Hosted by netlify.
 https://eclectic-madeleine-f4cce4.netlify.app
