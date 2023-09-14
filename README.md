@@ -1,3 +1,8 @@
+# Hosted
+Hosted by netlify.
+https://eclectic-madeleine-f4cce4.netlify.app
+
+
 # Astro Starter Kit: Minimal
 
 ```sh
